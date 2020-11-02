@@ -1,4 +1,4 @@
-## Analysis of bikeshare data from three US cities
+##  Library application with in-built SQL in Visual Studio and WinForms
 **********************************************
 Software:		C#
 
