@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 e95bfdea1ac0ae4ddfbd186745f80bfa6d22ee86 Dirk Mueller <dirkmuller8@outlook.de> 1604160865 +0100	commit (initial): GITIGNORE und GITATTRIBUTES hinzufügen.
+e95bfdea1ac0ae4ddfbd186745f80bfa6d22ee86 9b93fe9744fb49942d23b39520e31f0f844d6ef1 Dirk Mueller <dirkmuller8@outlook.de> 1604160868 +0100	commit: Projektdateien hinzufügen.
+9b93fe9744fb49942d23b39520e31f0f844d6ef1 9b93fe9744fb49942d23b39520e31f0f844d6ef1 Dirk Mueller <dirkmuller8@outlook.de> 1604160949 +0100	checkout: moving from master to master
+9b93fe9744fb49942d23b39520e31f0f844d6ef1 9b93fe9744fb49942d23b39520e31f0f844d6ef1 Dirk Mueller <dirkmuller8@outlook.de> 1604213461 +0100	checkout: moving from master to master
+9b93fe9744fb49942d23b39520e31f0f844d6ef1 3126439599b0a4578e2878183e4ab7e2f9ae89f5 Dirk Mueller <dirkmuller8@outlook.de> 1604213530 +0100	commit: "Added Leave event for single-person form"
+3126439599b0a4578e2878183e4ab7e2f9ae89f5 bd605c5c7de44309cb97bf8644e87a5a40133a99 Dirk Mueller <dirkmuller8@outlook.de> 1604218676 +0100	commit: Checks if the input in Kunden Einzelaansicht is neither empty, nor exceeds the limit
+bd605c5c7de44309cb97bf8644e87a5a40133a99 f69a5d50e6b52dfe17c3709ebcc414dbb30316f4 Dirk Mueller <dirkmuller8@outlook.de> 1604250793 +0100	commit: Added checks for all fields
+f69a5d50e6b52dfe17c3709ebcc414dbb30316f4 c1edb1636c765c56d360dc10edc19481242577f0 Dirk Mueller <dirkmuller8@outlook.de> 1604251832 +0100	commit: Added README with two snapshots
+c1edb1636c765c56d360dc10edc19481242577f0 62cc8f97ed8c892235c3f7ca20e42b91dbad08fd Dirk Mueller <dirkmuller8@outlook.de> 1604252137 +0100	commit: New try to include README and snapshots from VS2019
+62cc8f97ed8c892235c3f7ca20e42b91dbad08fd b9c15ea420abe61a2e4de091ee9737cebd9f4e02 Dirk Mueller <dirkmuller8@outlook.de> 1604252403 +0100	commit: New try
+b9c15ea420abe61a2e4de091ee9737cebd9f4e02 2381391f5cb2e3b032b11625bd4a75a5f9ab50ad Dirk Mueller <dirkmuller8@outlook.de> 1604252531 +0100	commit: Final README
+2381391f5cb2e3b032b11625bd4a75a5f9ab50ad 59dc1fe2a762a0aa25fc01b30434503e26c846b2 Dirk Mueller <dirkmuller8@outlook.de> 1604298208 +0100	commit: Final code implementation with all checks working
+59dc1fe2a762a0aa25fc01b30434503e26c846b2 1dcf9348e705383bfb88d527b4f9fee9214f43ae Dirk Mueller <dirkmuller8@outlook.de> 1604298414 +0100	commit: Final testing of input accomplished
+1dcf9348e705383bfb88d527b4f9fee9214f43ae a376e95b5a2460bb1e0c3d1ca1a30d9e0565015a Dirk Mueller <dirkmuller8@outlook.de> 1604299086 +0100	commit: Added text to the README file
